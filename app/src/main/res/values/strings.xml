@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TollPay</string>
+    <string name="two">Two Wheeler</string>
+    <string name="four">Four Wheeler</string>
+    <string name="heavy">Truck/Bus</string>
+    <string name="vip">VIP</string>
+    <string name="rfid">RFID</string>
+</resources>
+
